@@ -3,3 +3,4 @@ scipy==1.9.0
 matplotlib==3.5.2
 ipywidgets==7.7.2
 IPython==7.31.0
+voila>=0.5.0
